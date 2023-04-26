@@ -1,8 +1,7 @@
 streamlit
 numpy
 matplotlib
-seaborn                   
-geopandas       
+seaborn     
 pandas
 libpysal
 contextily
